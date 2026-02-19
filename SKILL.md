@@ -4,7 +4,8 @@ description: Apply Mill's qualitative hedonism to evaluate options, outcomes, or
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.4162
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
 - higher-pleasures-assessment
